@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Michael 👋
+
+I have lots of experience building prototypes in various ML areas - including in translation, NLP (mainly focussing on entity resolution) and CV. I have a particular interest in taking untested tools, evaluating them, producing working models and integrating them into pipelines. And I enjoy combining these tools with graphing tools (i.e. Neo4j) - a particularly good connection with entity resolution. AWS is my preferred tool for finalising prototyping but I usually spend the early days of a project exploring locally.
+
+I'm interested in investigating LLMs further - I've had good exposure to them before but given the pace of advancements, it's necessary to actively explore in order to keep up. I've started using Claude more and i'm going to be investigating what i can get it to do, for ML models (so more work context) and also what's possible when it's running locally (for personal projects).
+
+Wish me luck 🤞
 
 <!--
 **bmike-1/bmike-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
